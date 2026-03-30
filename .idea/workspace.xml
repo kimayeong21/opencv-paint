@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df5948fd-facf-4dba-84d6-74f149be8cf0" name="변경" comment="openCV-01 시작">
-      <change beforePath="$PROJECT_DIR$/opencv02/pracke.py" beforeDir="false" afterPath="$PROJECT_DIR$/opencv02/pracke.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv03/03-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv03/03-02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv03/03-03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +64,9 @@
     "Python.02-02.executor": "Run",
     "Python.02-03.executor": "Run",
     "Python.02-04.executor": "Run",
+    "Python.03-01.executor": "Run",
+    "Python.03-02.executor": "Run",
+    "Python.03-03.executor": "Run",
     "Python.OpenCV_Paint(1).executor": "Run",
     "Python.OpenCV_Paint.executor": "Run",
     "Python.pracke.executor": "Run",
