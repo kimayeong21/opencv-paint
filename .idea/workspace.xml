@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df5948fd-facf-4dba-84d6-74f149be8cf0" name="변경" comment="openCV-01 시작">
-      <change afterPath="$PROJECT_DIR$/opencv01/OpenCV_Paint(1).py" afterDir="false" />
-    </list>
+    <list default="true" id="df5948fd-facf-4dba-84d6-74f149be8cf0" name="변경" comment="openCV-01 시작" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +53,7 @@
     "Python.01-04.executor": "Run",
     "Python.01-05(1).executor": "Run",
     "Python.01-05.executor": "Run",
+    "Python.OpenCV_Paint(1).executor": "Run",
     "Python.OpenCV_Paint.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -71,6 +70,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\python-opencv\opencv01" />
       <recent name="C:\python-opencv" />
     </key>
   </component>
