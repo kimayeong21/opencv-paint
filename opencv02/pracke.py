@@ -2,8 +2,8 @@ import cv2
 import numpy as np
 
 # 이미지 불러오기
-src = cv2.imread('C:/python-opencv/green.jpg')   # 녹색 배경 이미지
-bg = cv2.imread('C:/python-opencv/lena.jpg')     # 배경 이미지
+src = cv2.imread('\python-opencv\lena.jpg')   # 녹색 배경 이미지
+bg = cv2.imread('\python-opencv\lena.jpg')     # 배경 이미지
 
 if src is None or bg is None:
     print("이미지를 찾을 수 없습니다.")
