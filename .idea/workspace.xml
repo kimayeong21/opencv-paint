@@ -5,16 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df5948fd-facf-4dba-84d6-74f149be8cf0" name="변경" comment="openCV-01 시작">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/green.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv02/02-01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv02/02-02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv02/02-03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv02/02-04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv02/pracke.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
