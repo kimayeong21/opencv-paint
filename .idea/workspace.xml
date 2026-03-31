@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df5948fd-facf-4dba-84d6-74f149be8cf0" name="변경" comment="openCV-01 시작">
-      <change afterPath="$PROJECT_DIR$/djkflsa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv03/03-04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv03/03-05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv03/03-06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv03/img.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
