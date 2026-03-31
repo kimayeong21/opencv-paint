@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df5948fd-facf-4dba-84d6-74f149be8cf0" name="변경" comment="openCV-01 시작">
-      <change afterPath="$PROJECT_DIR$/opencv03/03-실습.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coins.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/morphology.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv04/04-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv04/04-02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv04/04-03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv04/04-04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv04/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv05/05-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv05/05-02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv05/05-03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv05/05-04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv05/coins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,10 +81,22 @@
     "Python.03-05.executor": "Run",
     "Python.03-06.executor": "Run",
     "Python.03-실습.executor": "Run",
+    "Python.04-01.executor": "Run",
+    "Python.04-02.executor": "Run",
+    "Python.04-03.executor": "Run",
+    "Python.04-04.executor": "Run",
+    "Python.05-01.executor": "Run",
+    "Python.05-02.executor": "Run",
+    "Python.05-03.executor": "Run",
+    "Python.05-04.executor": "Run",
     "Python.OpenCV_Paint(1).executor": "Run",
     "Python.OpenCV_Paint.executor": "Run",
+    "Python.car.executor": "Run",
+    "Python.coins.executor": "Run",
     "Python.img.executor": "Run",
     "Python.pracke.executor": "Run",
+    "Python.practice-easy.executor": "Run",
+    "Python.practice-hard.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -91,8 +116,8 @@
       <recent name="C:\python-opencv\opencv01" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\python-opencv\opencv02" />
       <recent name="C:\python-opencv" />
+      <recent name="C:\python-opencv\opencv02" />
     </key>
   </component>
   <component name="SharedIndexes">
