@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df5948fd-facf-4dba-84d6-74f149be8cf0" name="변경" comment="openCV-01 시작">
-      <change afterPath="$PROJECT_DIR$/converted_keras/keras_model.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/haarcascade_frontalface_default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keras_model.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labels.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv06/06-01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv06/06-02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv06/06-03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv06/06-06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv06/perary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv06/show.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/people.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/show_camara.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tigermask.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv07/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/opencv07/practice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +89,7 @@
     "Python.pracke.executor": "Run",
     "Python.practice-easy.executor": "Run",
     "Python.practice-hard.executor": "Run",
+    "Python.practice.executor": "Run",
     "Python.show.executor": "Run",
     "Python.show_camara.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
