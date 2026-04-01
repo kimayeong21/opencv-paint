@@ -27,7 +27,7 @@ while True:
     _, diff_thresh = cv2.threshold(diff, 30, 255, cv2.THRESH_BINARY)
 
     # 화면에 표시
-    cv2.imshow("Current Frame", frame)
+    cv2.imshow("Frame", frame)
     cv2.imshow("Frame Difference", diff)
     cv2.imshow("Threshold Movement", diff_thresh)
 
