@@ -89,7 +89,7 @@ while True:
     cv2.putText(result, "C: Clear  P: Color  A: Thick+  S: Thick-  Q: Quit", (80, 65),
                 cv2.FONT_HERSHEY_SIMPLEX, 0.65, (255, 255, 255), 2)
 
-    cv2.imshow("Mask", mask)
+    cv2.imshow("mask", mask)
     cv2.imshow("Air Canvas", result)
 
     key = cv2.waitKey(1) & 0xFF
